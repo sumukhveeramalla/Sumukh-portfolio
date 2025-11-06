@@ -37,7 +37,7 @@ export default function Hero() {
       </div>
 
       <a
-        href="https://sumukhveeramalla.github.io/resume.pdf"
+        href="https://sumukhveeramalla.github.io/Sumukh-portfolio/resume.pdf"
         target="_blank"
         rel="noopener noreferrer"
         className="mt-8"
