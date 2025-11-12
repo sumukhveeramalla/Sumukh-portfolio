@@ -44,7 +44,7 @@ const Contact = () => {
         {/* Contact Form */}
         <form
           onSubmit={handleSubmit}
-          action="809beb15b63ca6e4165befe434482f7a"
+          action="809beb15b63ca6e4165befe434482f7ahttps://formsubmit.co/sumukhveeramalla2345@gmail.com"
           method="POST"
           className="flex flex-col gap-4 text-left bg-white/10 p-6 rounded-lg backdrop-blur-md border border-white/20"
         >
